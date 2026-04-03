@@ -1,6 +1,6 @@
 # STARTER-jpa01
 
-Deployed at: http://jpa01-schoolkris08.dokku-15.cs.ucsb.edu
+Deployed at: http://jpa01-kristopherrangel.dokku-15.cs.ucsb.edu/
 
 
 # About this repo
