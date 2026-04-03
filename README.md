@@ -1,4 +1,4 @@
-# STARTER-jpa01
+# jpa01-schoolKris08
 
 Deployed at: http://jpa01-kristopherrangel.dokku-15.cs.ucsb.edu/
 
