@@ -1,6 +1,6 @@
 # jpa01-schoolKris08
 
-Deployed at: http://jpa01-kristopherrangel.dokku-15.cs.ucsb.edu/
+Deployed at: https://jpa01-kristopherrangel.dokku-15.cs.ucsb.edu/
 
 
 # About this repo
